@@ -9,3 +9,5 @@
   <li>*Open your followings and take them into list then close pop up</li>
   <li>*Compare them and then extract difference between</li>
 </ol>
+
+<p>You can examine the report of this case in the html-report folder</p>
