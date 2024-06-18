@@ -1,0 +1,990 @@
+14-06-2024 11:24:51.676 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 11:24:51.678 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 11:24:51.678 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 11:24:51.678 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52250
+14-06-2024 11:24:51.681 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 11:24:51.681 [Gauge] [DEBUG] Found 0 files
+14-06-2024 11:28:22.615 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 11:28:22.616 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 11:28:22.616 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 11:28:22.616 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53271
+14-06-2024 11:28:22.618 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 11:28:22.618 [Gauge] [DEBUG] Found 0 files
+14-06-2024 11:31:35.893 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 11:31:35.894 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 11:31:35.894 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 11:31:35.894 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53593
+14-06-2024 11:31:35.895 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 11:31:35.895 [Gauge] [DEBUG] Found 0 files
+14-06-2024 11:36:54.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Test method"}
+14-06-2024 11:36:54.850 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Test method"  parameterizedStepValue:"Test method"}}
+14-06-2024 11:36:54.939 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Test mehod"}
+14-06-2024 11:36:54.950 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Test mehod"  parameterizedStepValue:"Test mehod"}}
+14-06-2024 11:51:02.919 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 11:51:02.925 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 11:51:02.925 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 11:51:02.925 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54629
+14-06-2024 11:51:02.932 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 11:51:02.933 [Gauge] [DEBUG] Found 0 files
+14-06-2024 11:53:16.754 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 11:53:16.756 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 11:53:16.756 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 11:53:16.756 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54949
+14-06-2024 11:53:16.760 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 11:53:16.761 [Gauge] [DEBUG] Found 0 files
+14-06-2024 11:55:39.435 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Test mehod"}
+14-06-2024 11:55:39.438 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Test mehod"  parameterizedStepValue:"Test mehod"}}
+14-06-2024 11:55:39.466 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Test method"}
+14-06-2024 11:55:39.474 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Test method"  parameterizedStepValue:"Test method"}}
+14-06-2024 11:56:24.790 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:56:24.792 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:56:24.795 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:56:24.796 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:24.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"G"}
+14-06-2024 11:58:24.813 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"G"  parameterizedStepValue:"G"}}
+14-06-2024 11:58:24.823 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:24.825 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:24.825 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:24.825 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:25.005 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go"}
+14-06-2024 11:58:25.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go"  parameterizedStepValue:"Go"}}
+14-06-2024 11:58:25.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Got"}
+14-06-2024 11:58:25.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Got"  parameterizedStepValue:"Got"}}
+14-06-2024 11:58:25.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go t"}
+14-06-2024 11:58:25.748 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go t"  parameterizedStepValue:"Go t"}}
+14-06-2024 11:58:25.758 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:25.761 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:25.761 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:25.761 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:25.762 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:25.763 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:25.763 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:25.763 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:25.890 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to"}
+14-06-2024 11:58:25.890 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to"  parameterizedStepValue:"Go to"}}
+14-06-2024 11:58:26.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to i"}
+14-06-2024 11:58:26.511 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to i"  parameterizedStepValue:"Go to i"}}
+14-06-2024 11:58:26.515 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:26.515 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:26.520 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:26.520 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:26.520 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:26.520 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:26.521 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:26.521 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:26.830 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to in"}
+14-06-2024 11:58:26.830 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to in"  parameterizedStepValue:"Go to in"}}
+14-06-2024 11:58:28.695 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:28.702 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:28.702 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:28.702 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:28.703 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:28.704 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:28.704 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:28.704 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:29.075 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to ins"}
+14-06-2024 11:58:29.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to ins"  parameterizedStepValue:"Go to ins"}}
+14-06-2024 11:58:29.206 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to inst"}
+14-06-2024 11:58:29.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to inst"  parameterizedStepValue:"Go to inst"}}
+14-06-2024 11:58:29.288 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to insta"}
+14-06-2024 11:58:29.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to insta"  parameterizedStepValue:"Go to insta"}}
+14-06-2024 11:58:29.478 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instag"}
+14-06-2024 11:58:29.484 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instag"  parameterizedStepValue:"Go to instag"}}
+14-06-2024 11:58:29.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagr"}
+14-06-2024 11:58:29.681 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagr"  parameterizedStepValue:"Go to instagr"}}
+14-06-2024 11:58:29.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagra"}
+14-06-2024 11:58:29.799 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagra"  parameterizedStepValue:"Go to instagra"}}
+14-06-2024 11:58:29.945 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram"}
+14-06-2024 11:58:29.947 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram"  parameterizedStepValue:"Go to instagram"}}
+14-06-2024 11:58:30.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram w"}
+14-06-2024 11:58:30.940 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram w"  parameterizedStepValue:"Go to instagram w"}}
+14-06-2024 11:58:30.948 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:30.949 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:30.949 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:30.949 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:30.950 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 11:58:30.950 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 11:58:30.951 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 11:58:30.951 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 11:58:31.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram we"}
+14-06-2024 11:58:31.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram we"  parameterizedStepValue:"Go to instagram we"}}
+14-06-2024 11:58:31.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram web"}
+14-06-2024 11:58:31.359 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram web"  parameterizedStepValue:"Go to instagram web"}}
+14-06-2024 11:58:31.555 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram webs"}
+14-06-2024 11:58:31.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram webs"  parameterizedStepValue:"Go to instagram webs"}}
+14-06-2024 11:58:31.615 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram websi"}
+14-06-2024 11:58:31.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram websi"  parameterizedStepValue:"Go to instagram websi"}}
+14-06-2024 11:58:31.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram websit"}
+14-06-2024 11:58:31.774 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram websit"  parameterizedStepValue:"Go to instagram websit"}}
+14-06-2024 11:58:31.877 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website"}
+14-06-2024 11:58:31.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website"  parameterizedStepValue:"Go to instagram website"}}
+14-06-2024 12:08:33.446 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 12:08:33.446 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 12:08:33.446 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 12:08:33.446 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55905
+14-06-2024 12:08:33.446 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 12:08:33.446 [Gauge] [DEBUG] Found 0 files
+14-06-2024 12:09:45.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website"}
+14-06-2024 12:09:45.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website"  parameterizedStepValue:"Go to instagram website"}}
+14-06-2024 17:01:00.472 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 17:01:00.475 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 17:01:00.476 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 17:01:00.477 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 17:01:00.478 [Gauge] [DEBUG] Found 0 files
+14-06-2024 17:01:00.478 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57697
+14-06-2024 17:01:08.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website"}
+14-06-2024 17:01:08.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website"  parameterizedStepValue:"Go to instagram website"}}
+14-06-2024 17:09:40.032 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website "}
+14-06-2024 17:09:40.038 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website"  parameterizedStepValue:"Go to instagram website"}}
+14-06-2024 17:09:41.266 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using "}
+14-06-2024 17:09:41.279 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using"  parameterizedStepValue:"Go to instagram website using"}}
+14-06-2024 17:09:41.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by"}
+14-06-2024 17:09:41.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by"  parameterizedStepValue:"Go to instagram website using by"}}
+14-06-2024 17:09:42.579 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by "}
+14-06-2024 17:09:42.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by"  parameterizedStepValue:"Go to instagram website using by"}}
+14-06-2024 17:09:44.033 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by c"}
+14-06-2024 17:09:44.040 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by c"  parameterizedStepValue:"Go to instagram website using by c"}}
+14-06-2024 17:09:44.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrom"}
+14-06-2024 17:09:44.991 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrom"  parameterizedStepValue:"Go to instagram website using by chrom"}}
+14-06-2024 17:09:45.612 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome"}
+14-06-2024 17:09:45.618 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome"  parameterizedStepValue:"Go to instagram website using by chrome"}}
+14-06-2024 17:09:48.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome ex"}
+14-06-2024 17:09:48.041 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome ex"  parameterizedStepValue:"Go to instagram website using by chrome ex"}}
+14-06-2024 17:09:49.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome exploreer"}
+14-06-2024 17:09:49.325 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome exploreer"  parameterizedStepValue:"Go to instagram website using by chrome exploreer"}}
+14-06-2024 17:09:49.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome exploree"}
+14-06-2024 17:09:49.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome exploree"  parameterizedStepValue:"Go to instagram website using by chrome exploree"}}
+14-06-2024 17:09:50.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+14-06-2024 17:09:50.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+14-06-2024 17:09:58.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go t instagram website using by chrome explorer"}
+14-06-2024 17:09:58.485 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go t instagram website using by chrome explorer"  parameterizedStepValue:"Go t instagram website using by chrome explorer"}}
+14-06-2024 17:12:07.166 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:12:07.181 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:12:07.182 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:12:07.186 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:12:14.605 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:12:14.605 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:12:14.607 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:12:14.607 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:12:23.734 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+14-06-2024 17:12:23.742 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+14-06-2024 17:12:25.376 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:12:25.376 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:12:25.387 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:12:25.387 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:12:26.829 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:12:26.839 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:12:26.839 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:12:26.840 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:13:24.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+14-06-2024 17:13:24.802 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+14-06-2024 17:13:29.689 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:13:29.695 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:13:31.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"E"}
+14-06-2024 17:13:31.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"E"  parameterizedStepValue:"E"}}
+14-06-2024 17:13:31.580 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:13:31.596 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:13:31.596 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:13:31.596 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:13:31.690 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"En"}
+14-06-2024 17:13:31.692 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"En"  parameterizedStepValue:"En"}}
+14-06-2024 17:22:12.923 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:22:12.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:22:12.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:22:12.983 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:22:12.983 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:22:12.985 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:22:14.705 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Nag"}
+14-06-2024 17:22:14.705 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Nag"  parameterizedStepValue:"Nag"}}
+14-06-2024 17:22:15.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Nabi"}
+14-06-2024 17:22:15.940 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Nabi"  parameterizedStepValue:"Nabi"}}
+14-06-2024 17:22:16.722 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Nab"}
+14-06-2024 17:22:16.736 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Nab"  parameterizedStepValue:"Nab"}}
+14-06-2024 17:22:17.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Na"}
+14-06-2024 17:22:17.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Na"  parameterizedStepValue:"Na"}}
+14-06-2024 17:22:18.473 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate "}
+14-06-2024 17:22:18.473 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate"  parameterizedStepValue:"Navigate"}}
+14-06-2024 17:23:11.945 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:23:11.945 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:23:11.976 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:23:11.991 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:23:11.992 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+14-06-2024 17:23:11.992 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+14-06-2024 17:23:12.758 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Cli"}
+14-06-2024 17:23:12.758 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Cli"  parameterizedStepValue:"Cli"}}
+14-06-2024 17:23:13.415 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click "}
+14-06-2024 17:23:13.415 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click"  parameterizedStepValue:"Click"}}
+14-06-2024 17:23:15.495 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click pro"}
+14-06-2024 17:23:15.495 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click pro"  parameterizedStepValue:"Click pro"}}
+14-06-2024 17:23:16.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile "}
+14-06-2024 17:23:16.541 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile"  parameterizedStepValue:"Click profile"}}
+14-06-2024 17:23:18.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button "}
+14-06-2024 17:23:18.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button"  parameterizedStepValue:"Click profile button"}}
+14-06-2024 17:23:20.234 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navi"}
+14-06-2024 17:23:20.234 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navi"  parameterizedStepValue:"Click profile button navi"}}
+14-06-2024 17:23:20.718 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button naviga"}
+14-06-2024 17:23:20.718 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button naviga"  parameterizedStepValue:"Click profile button naviga"}}
+14-06-2024 17:23:21.344 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate "}
+14-06-2024 17:23:21.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate"  parameterizedStepValue:"Click profile button navigate"}}
+14-06-2024 17:23:23.828 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from "}
+14-06-2024 17:23:23.828 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from"  parameterizedStepValue:"Click profile button navigate bar from"}}
+14-06-2024 17:23:25.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left "}
+14-06-2024 17:23:25.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left"  parameterizedStepValue:"Click profile button navigate bar from left"}}
+14-06-2024 17:23:27.219 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of "}
+14-06-2024 17:23:27.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of"  parameterizedStepValue:"Click profile button navigate bar from left side of"}}
+14-06-2024 17:23:29.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+14-06-2024 17:23:29.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+14-06-2024 17:24:49.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+14-06-2024 17:24:49.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+14-06-2024 17:25:22.605 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list"}
+14-06-2024 17:25:22.618 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list"  parameterizedStepValue:"Open your followers and take them into list"}}
+14-06-2024 17:25:30.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close "}
+14-06-2024 17:25:30.010 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close"  parameterizedStepValue:"Open your followers and take them into list then close"}}
+14-06-2024 17:25:30.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop "}
+14-06-2024 17:25:30.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop"  parameterizedStepValue:"Open your followers and take them into list then close pop"}}
+14-06-2024 17:25:31.729 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+14-06-2024 17:25:31.739 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+14-06-2024 17:25:41.553 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+14-06-2024 17:25:41.564 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+14-06-2024 17:25:50.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Co your followings and take them into list then close pop up"}
+14-06-2024 17:25:50.200 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Co your followings and take them into list then close pop up"  parameterizedStepValue:"Co your followings and take them into list then close pop up"}}
+14-06-2024 17:25:50.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Cop your followings and take them into list then close pop up"}
+14-06-2024 17:25:50.811 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Cop your followings and take them into list then close pop up"  parameterizedStepValue:"Cop your followings and take them into list then close pop up"}}
+14-06-2024 17:25:52.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare your followings and take them into list then close pop up"}
+14-06-2024 17:25:52.098 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare your followings and take them into list then close pop up"  parameterizedStepValue:"Compare your followings and take them into list then close pop up"}}
+14-06-2024 17:25:55.489 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare "}
+14-06-2024 17:25:55.489 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare"  parameterizedStepValue:"Compare"}}
+14-06-2024 17:25:57.396 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare follower"}
+14-06-2024 17:25:57.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare follower"  parameterizedStepValue:"Compare follower"}}
+14-06-2024 17:26:00.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare followers and followings "}
+14-06-2024 17:26:00.803 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare followers and followings"  parameterizedStepValue:"Compare followers and followings"}}
+14-06-2024 17:26:02.916 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare followers and followings and "}
+14-06-2024 17:26:02.926 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare followers and followings and"  parameterizedStepValue:"Compare followers and followings and"}}
+14-06-2024 17:26:03.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare followers and followings and list "}
+14-06-2024 17:26:03.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare followers and followings and list"  parameterizedStepValue:"Compare followers and followings and list"}}
+14-06-2024 17:26:06.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare followers and followings and list unfollow"}
+14-06-2024 17:26:06.811 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare followers and followings and list unfollow"  parameterizedStepValue:"Compare followers and followings and list unfollow"}}
+14-06-2024 17:26:08.051 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare followers and followings and list unfollowers "}
+14-06-2024 17:26:08.062 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare followers and followings and list unfollowers"  parameterizedStepValue:"Compare followers and followings and list unfollowers"}}
+14-06-2024 17:26:14.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare then and list unfollowers "}
+14-06-2024 17:26:14.991 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare then and list unfollowers"  parameterizedStepValue:"Compare then and list unfollowers"}}
+14-06-2024 17:26:15.418 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare the and list unfollowers "}
+14-06-2024 17:26:15.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare the and list unfollowers"  parameterizedStepValue:"Compare the and list unfollowers"}}
+14-06-2024 17:26:15.918 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and list unfollowers "}
+14-06-2024 17:26:15.929 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and list unfollowers"  parameterizedStepValue:"Compare them and list unfollowers"}}
+14-06-2024 17:26:19.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list unfollowers "}
+14-06-2024 17:26:19.320 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list unfollowers"  parameterizedStepValue:"Compare them and then list unfollowers"}}
+14-06-2024 17:26:26.910 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list unfollowers  "}
+14-06-2024 17:26:26.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list unfollowers"  parameterizedStepValue:"Compare them and then list unfollowers"}}
+14-06-2024 17:26:27.551 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list unfollowers a "}
+14-06-2024 17:26:27.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list unfollowers a"  parameterizedStepValue:"Compare them and then list unfollowers a"}}
+14-06-2024 17:26:28.864 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list unfollower "}
+14-06-2024 17:26:28.864 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list unfollower"  parameterizedStepValue:"Compare them and then list unfollower"}}
+14-06-2024 17:26:33.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list nfollowers "}
+14-06-2024 17:26:33.243 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list nfollowers"  parameterizedStepValue:"Compare them and then list nfollowers"}}
+14-06-2024 17:26:33.701 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list Fnfollowers "}
+14-06-2024 17:26:33.712 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list Fnfollowers"  parameterizedStepValue:"Compare them and then list Fnfollowers"}}
+14-06-2024 17:26:34.530 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list Unfollowers "}
+14-06-2024 17:26:34.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list Unfollowers"  parameterizedStepValue:"Compare them and then list Unfollowers"}}
+14-06-2024 17:26:40.485 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then list  "}
+14-06-2024 17:26:40.495 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then list"  parameterizedStepValue:"Compare them and then list"}}
+14-06-2024 17:26:41.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then ex "}
+14-06-2024 17:26:41.970 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then ex"  parameterizedStepValue:"Compare them and then ex"}}
+14-06-2024 17:26:43.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract  "}
+14-06-2024 17:26:43.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract"  parameterizedStepValue:"Compare them and then extract"}}
+14-06-2024 17:26:44.930 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract sid "}
+14-06-2024 17:26:44.931 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract sid"  parameterizedStepValue:"Compare them and then extract sid"}}
+14-06-2024 17:26:46.096 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract di "}
+14-06-2024 17:26:46.096 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract di"  parameterizedStepValue:"Compare them and then extract di"}}
+14-06-2024 17:26:52.371 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract differe "}
+14-06-2024 17:26:52.383 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract differe"  parameterizedStepValue:"Compare them and then extract differe"}}
+14-06-2024 17:26:53.778 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference "}
+14-06-2024 17:26:53.788 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference"  parameterizedStepValue:"Compare them and then extract difference"}}
+14-06-2024 17:26:56.971 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference bettw"}
+14-06-2024 17:26:56.971 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference bettw"  parameterizedStepValue:"Compare them and then extract difference bettw"}}
+14-06-2024 17:26:58.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference bettween"}
+14-06-2024 17:26:58.379 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference bettween"  parameterizedStepValue:"Compare them and then extract difference bettween"}}
+14-06-2024 17:27:00.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference bet"}
+14-06-2024 17:27:00.521 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference bet"  parameterizedStepValue:"Compare them and then extract difference bet"}}
+14-06-2024 17:27:01.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+14-06-2024 17:27:01.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+14-06-2024 17:27:28.979 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:27:28.979 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:27:28.980 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:27:28.980 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:27:37.045 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:27:37.045 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:27:37.057 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:27:37.057 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:27:40.299 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:27:40.299 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:27:40.305 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:27:40.305 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:27:43.714 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:27:43.714 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:27:43.717 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:27:43.717 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:27:47.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"C"}
+14-06-2024 17:27:47.637 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"C"  parameterizedStepValue:"C"}}
+14-06-2024 17:27:47.637 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-06-2024 17:27:47.645 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-06-2024 17:27:47.645 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-06-2024 17:27:47.645 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-06-2024 17:27:48.967 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Co"}
+14-06-2024 17:27:48.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Co"  parameterizedStepValue:"Co"}}
+14-06-2024 17:27:49.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Com"}
+14-06-2024 17:27:49.039 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Com"  parameterizedStepValue:"Com"}}
+14-06-2024 18:02:28.148 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 18:02:28.150 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 18:02:28.150 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 18:02:28.150 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60178
+14-06-2024 18:02:28.151 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 18:02:28.151 [Gauge] [DEBUG] Found 0 files
+14-06-2024 18:04:04.699 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+14-06-2024 18:04:04.701 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+14-06-2024 18:04:09.246 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+14-06-2024 18:04:09.246 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+14-06-2024 18:04:09.262 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+14-06-2024 18:04:09.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+14-06-2024 18:04:09.278 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+14-06-2024 18:04:09.278 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+14-06-2024 18:04:09.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+14-06-2024 18:04:09.295 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+14-06-2024 18:04:09.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+14-06-2024 18:04:09.300 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+14-06-2024 18:04:09.325 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+14-06-2024 18:04:09.327 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+14-06-2024 18:04:09.328 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+14-06-2024 18:04:09.334 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+14-06-2024 18:26:03.882 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-06-2024 18:26:03.889 [Gauge] [INFO] Initializing specs cache with 0 specs
+14-06-2024 18:26:03.889 [Gauge] [INFO] Initializing steps cache with 0 steps
+14-06-2024 18:26:03.889 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50508
+14-06-2024 18:26:03.890 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+14-06-2024 18:26:03.890 [Gauge] [DEBUG] Found 0 files
+14-06-2024 18:26:19.525 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+14-06-2024 18:26:19.533 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+14-06-2024 18:26:19.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+14-06-2024 18:26:19.580 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+14-06-2024 18:26:19.629 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+14-06-2024 18:26:19.629 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+14-06-2024 18:26:19.646 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+14-06-2024 18:26:19.652 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+14-06-2024 18:26:19.662 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+14-06-2024 18:26:19.662 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+14-06-2024 18:26:19.678 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+14-06-2024 18:26:19.684 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+14-06-2024 18:26:19.756 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+14-06-2024 18:26:19.757 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+14-06-2024 18:26:19.757 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+14-06-2024 18:26:19.765 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+15-06-2024 14:20:26.876 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-06-2024 14:20:26.880 [Gauge] [INFO] Initializing specs cache with 0 specs
+15-06-2024 14:20:26.880 [Gauge] [INFO] Initializing steps cache with 0 steps
+15-06-2024 14:20:26.880 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53042
+15-06-2024 14:20:26.883 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+15-06-2024 14:20:26.884 [Gauge] [DEBUG] Found 0 files
+15-06-2024 14:20:43.733 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+15-06-2024 14:20:43.738 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+15-06-2024 14:20:43.993 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+15-06-2024 14:20:43.998 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+15-06-2024 14:20:44.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+15-06-2024 14:20:44.001 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+15-06-2024 14:23:20.755 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+15-06-2024 14:23:20.755 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+15-06-2024 14:23:20.771 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+15-06-2024 14:23:20.771 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+15-06-2024 14:23:20.802 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+15-06-2024 14:23:20.802 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+15-06-2024 14:23:21.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+15-06-2024 14:23:21.003 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+15-06-2024 14:23:21.005 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+15-06-2024 14:23:21.017 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+15-06-2024 14:41:20.425 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+15-06-2024 14:41:20.441 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+15-06-2024 14:41:20.442 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+15-06-2024 14:41:20.442 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+15-06-2024 14:41:23.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"N"}
+15-06-2024 14:41:23.146 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"N"  parameterizedStepValue:"N"}}
+15-06-2024 14:41:23.539 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Na"}
+15-06-2024 14:41:23.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Na"  parameterizedStepValue:"Na"}}
+15-06-2024 14:41:24.413 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Naa"}
+15-06-2024 14:41:24.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Naa"  parameterizedStepValue:"Naa"}}
+15-06-2024 14:41:25.867 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"P"}
+15-06-2024 14:41:25.874 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"P"  parameterizedStepValue:"P"}}
+15-06-2024 14:41:25.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Pr"}
+15-06-2024 14:41:25.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Pr"  parameterizedStepValue:"Pr"}}
+15-06-2024 14:41:26.243 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Pro"}
+15-06-2024 14:41:26.253 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Pro"  parameterizedStepValue:"Pro"}}
+15-06-2024 16:52:12.779 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-06-2024 16:52:12.781 [Gauge] [INFO] Initializing specs cache with 0 specs
+15-06-2024 16:52:12.781 [Gauge] [INFO] Initializing steps cache with 0 steps
+15-06-2024 16:52:12.781 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56704
+15-06-2024 16:52:12.782 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+15-06-2024 16:52:12.783 [Gauge] [DEBUG] Found 0 files
+15-06-2024 16:55:26.874 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+15-06-2024 16:55:26.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+15-06-2024 16:55:26.890 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+15-06-2024 16:55:26.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+15-06-2024 16:55:26.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+15-06-2024 16:55:26.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+15-06-2024 16:55:26.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+15-06-2024 16:55:26.944 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+15-06-2024 16:55:26.944 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+15-06-2024 16:55:26.950 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+15-06-2024 16:55:26.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+15-06-2024 16:55:26.952 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+15-06-2024 16:55:26.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+15-06-2024 16:55:26.957 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+15-06-2024 16:55:26.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+15-06-2024 16:55:26.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+15-06-2024 17:09:48.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"O"}
+15-06-2024 17:09:48.019 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"O"  parameterizedStepValue:"O"}}
+15-06-2024 17:09:48.019 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+15-06-2024 17:09:48.031 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+15-06-2024 17:09:48.033 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+15-06-2024 17:09:48.036 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+15-06-2024 17:09:48.659 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ope"}
+15-06-2024 17:09:48.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ope"  parameterizedStepValue:"Ope"}}
+15-06-2024 17:59:50.740 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-06-2024 17:59:50.742 [Gauge] [INFO] Initializing specs cache with 0 specs
+15-06-2024 17:59:50.742 [Gauge] [INFO] Initializing steps cache with 0 steps
+15-06-2024 17:59:50.742 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60586
+15-06-2024 17:59:50.743 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+15-06-2024 17:59:50.743 [Gauge] [DEBUG] Found 0 files
+15-06-2024 18:00:07.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+15-06-2024 18:00:07.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+15-06-2024 18:00:07.706 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+15-06-2024 18:00:07.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+15-06-2024 18:00:07.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+15-06-2024 18:00:07.762 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+15-06-2024 18:00:07.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+15-06-2024 18:00:07.775 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+15-06-2024 18:00:07.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+15-06-2024 18:00:07.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+15-06-2024 18:00:07.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+15-06-2024 18:00:07.897 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+15-06-2024 18:00:07.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+15-06-2024 18:00:07.951 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+15-06-2024 18:00:07.989 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+15-06-2024 18:00:07.997 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+15-06-2024 19:57:11.029 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-06-2024 19:57:11.087 [Gauge] [INFO] Initializing specs cache with 0 specs
+15-06-2024 19:57:11.087 [Gauge] [INFO] Initializing steps cache with 0 steps
+15-06-2024 19:57:11.087 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63356
+15-06-2024 19:57:11.090 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+15-06-2024 19:57:11.092 [Gauge] [DEBUG] Found 0 files
+15-06-2024 23:32:32.106 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+15-06-2024 23:32:32.124 [Gauge] [INFO] Initializing specs cache with 0 specs
+15-06-2024 23:32:32.124 [Gauge] [INFO] Initializing steps cache with 0 steps
+15-06-2024 23:32:32.124 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64162
+15-06-2024 23:32:32.125 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+15-06-2024 23:32:32.126 [Gauge] [DEBUG] Found 0 files
+15-06-2024 23:38:35.866 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+15-06-2024 23:38:35.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+15-06-2024 23:38:35.913 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+15-06-2024 23:38:35.914 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+15-06-2024 23:38:35.914 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+15-06-2024 23:38:35.914 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+15-06-2024 23:38:35.915 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+15-06-2024 23:38:35.915 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+15-06-2024 23:38:36.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+15-06-2024 23:38:36.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+15-06-2024 23:38:36.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+15-06-2024 23:38:36.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+15-06-2024 23:45:08.123 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+15-06-2024 23:45:08.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+15-06-2024 23:45:08.132 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+15-06-2024 23:45:08.132 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+16-06-2024 17:24:02.909 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+16-06-2024 17:24:02.913 [Gauge] [INFO] Initializing specs cache with 0 specs
+16-06-2024 17:24:02.913 [Gauge] [INFO] Initializing steps cache with 0 steps
+16-06-2024 17:24:02.913 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49778
+16-06-2024 17:24:02.914 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+16-06-2024 17:24:02.915 [Gauge] [DEBUG] Found 0 files
+16-06-2024 17:24:12.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+16-06-2024 17:24:12.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+16-06-2024 17:24:12.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+16-06-2024 17:24:12.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+16-06-2024 17:24:21.147 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+16-06-2024 17:24:21.147 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+16-06-2024 17:24:21.242 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+16-06-2024 17:24:21.248 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+16-06-2024 17:24:21.320 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+16-06-2024 17:24:21.320 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+16-06-2024 17:24:21.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+16-06-2024 17:24:21.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+16-06-2024 17:24:21.430 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+16-06-2024 17:24:21.434 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+16-06-2024 17:24:21.447 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+16-06-2024 17:24:21.448 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+16-06-2024 17:24:21.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+16-06-2024 17:24:21.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+16-06-2024 18:11:10.132 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+16-06-2024 18:11:10.132 [Gauge] [INFO] Initializing specs cache with 0 specs
+16-06-2024 18:11:10.132 [Gauge] [INFO] Initializing steps cache with 0 steps
+16-06-2024 18:11:10.132 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54295
+16-06-2024 18:11:10.132 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+16-06-2024 18:11:10.132 [Gauge] [DEBUG] Found 0 files
+16-06-2024 18:11:27.165 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+16-06-2024 18:11:27.173 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+16-06-2024 18:11:27.265 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+16-06-2024 18:11:27.271 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+16-06-2024 18:11:27.359 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+16-06-2024 18:11:27.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+16-06-2024 18:11:27.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+16-06-2024 18:11:27.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+16-06-2024 18:11:27.449 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+16-06-2024 18:11:27.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+16-06-2024 18:11:27.526 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+16-06-2024 18:11:27.530 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+16-06-2024 18:11:27.541 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+16-06-2024 18:11:27.545 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+16-06-2024 18:11:27.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+16-06-2024 18:11:27.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+17-06-2024 19:48:42.024 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-06-2024 19:48:42.028 [Gauge] [INFO] Initializing specs cache with 0 specs
+17-06-2024 19:48:42.028 [Gauge] [INFO] Initializing steps cache with 0 steps
+17-06-2024 19:48:42.028 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59938
+17-06-2024 19:48:42.029 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+17-06-2024 19:48:42.030 [Gauge] [DEBUG] Found 0 files
+17-06-2024 19:48:59.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+17-06-2024 19:48:59.252 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+17-06-2024 19:48:59.325 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+17-06-2024 19:48:59.330 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+17-06-2024 19:48:59.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+17-06-2024 19:48:59.388 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+17-06-2024 19:48:59.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+17-06-2024 19:48:59.466 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+17-06-2024 19:48:59.479 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+17-06-2024 19:48:59.483 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+17-06-2024 19:48:59.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+17-06-2024 19:48:59.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+17-06-2024 19:48:59.611 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+17-06-2024 19:48:59.616 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+17-06-2024 19:48:59.656 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+17-06-2024 19:48:59.657 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+17-06-2024 20:10:37.625 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-06-2024 20:10:37.626 [Gauge] [INFO] Initializing specs cache with 0 specs
+17-06-2024 20:10:37.626 [Gauge] [INFO] Initializing steps cache with 0 steps
+17-06-2024 20:10:37.626 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62365
+17-06-2024 20:10:37.627 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+17-06-2024 20:10:37.628 [Gauge] [DEBUG] Found 0 files
+17-06-2024 20:11:51.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+17-06-2024 20:11:51.855 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+17-06-2024 20:11:51.957 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+17-06-2024 20:11:51.968 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+17-06-2024 20:11:52.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+17-06-2024 20:11:52.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+17-06-2024 20:11:52.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+17-06-2024 20:11:52.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+17-06-2024 20:11:52.088 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+17-06-2024 20:11:52.090 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+17-06-2024 20:11:52.096 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+17-06-2024 20:11:52.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+17-06-2024 20:11:52.123 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+17-06-2024 20:11:52.128 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+17-06-2024 20:11:52.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+17-06-2024 20:11:52.136 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+17-06-2024 20:23:52.077 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-06-2024 20:23:52.077 [Gauge] [INFO] Initializing specs cache with 0 specs
+17-06-2024 20:23:52.077 [Gauge] [INFO] Initializing steps cache with 0 steps
+17-06-2024 20:23:52.077 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63149
+17-06-2024 20:23:52.077 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+17-06-2024 20:23:52.077 [Gauge] [DEBUG] Found 0 files
+17-06-2024 20:24:12.885 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+17-06-2024 20:24:12.889 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+17-06-2024 20:24:13.118 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+17-06-2024 20:24:13.121 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+17-06-2024 20:24:13.226 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+17-06-2024 20:24:13.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+17-06-2024 20:24:13.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+17-06-2024 20:24:13.257 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+17-06-2024 20:24:13.412 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+17-06-2024 20:24:13.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+17-06-2024 20:24:13.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+17-06-2024 20:24:13.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+17-06-2024 20:24:13.479 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+17-06-2024 20:24:13.480 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+17-06-2024 20:24:13.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+17-06-2024 20:24:13.511 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+18-06-2024 13:03:07.117 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-06-2024 13:03:07.119 [Gauge] [INFO] Initializing specs cache with 0 specs
+18-06-2024 13:03:07.119 [Gauge] [INFO] Initializing steps cache with 0 steps
+18-06-2024 13:03:07.120 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50816
+18-06-2024 13:03:07.120 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+18-06-2024 13:03:07.121 [Gauge] [DEBUG] Found 0 files
+18-06-2024 13:03:23.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+18-06-2024 13:03:23.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+18-06-2024 13:03:23.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+18-06-2024 13:03:23.454 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+18-06-2024 13:03:23.487 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+18-06-2024 13:03:23.488 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+18-06-2024 13:03:23.579 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+18-06-2024 13:03:23.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+18-06-2024 13:03:23.595 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+18-06-2024 13:03:23.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+18-06-2024 13:03:23.632 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter id and password and then click login button"}
+18-06-2024 13:03:23.633 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter id and password and then click login button"  parameterizedStepValue:"Enter id and password and then click login button"}}
+18-06-2024 13:03:23.657 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+18-06-2024 13:03:23.658 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+18-06-2024 13:03:23.666 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate your profile whether is correct or not"}
+18-06-2024 13:03:23.667 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate your profile whether is correct or not"  parameterizedStepValue:"Validate your profile whether is correct or not"}}
+18-06-2024 13:15:25.956 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"O"}
+18-06-2024 13:15:25.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"O"  parameterizedStepValue:"O"}}
+18-06-2024 13:15:25.972 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+18-06-2024 13:15:25.975 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+18-06-2024 13:15:25.976 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+18-06-2024 13:15:25.976 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+18-06-2024 13:15:26.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Op"}
+18-06-2024 13:15:26.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Op"  parameterizedStepValue:"Op"}}
+18-06-2024 13:15:26.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ope"}
+18-06-2024 13:15:26.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ope"  parameterizedStepValue:"Ope"}}
+18-06-2024 13:15:26.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open"}
+18-06-2024 13:15:26.455 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open"  parameterizedStepValue:"Open"}}
+18-06-2024 13:55:29.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.109 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.115 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.115 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.116 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.152 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.152 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.169 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.172 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.203 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.214 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.235 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.250 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.251 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.285 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.286 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-06-2024 13:55:29.286 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-06-2024 13:55:29.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"v"}
+18-06-2024 13:55:29.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"v"  parameterizedStepValue:"v"}}
+18-06-2024 13:55:29.377 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+18-06-2024 13:55:29.384 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+18-06-2024 13:55:29.384 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+18-06-2024 13:55:29.384 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+18-06-2024 13:55:29.564 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"va"}
+18-06-2024 13:55:29.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"va"  parameterizedStepValue:"va"}}
+18-06-2024 14:03:50.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"C"}
+18-06-2024 14:03:50.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"C"  parameterizedStepValue:"C"}}
+18-06-2024 14:03:50.115 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+18-06-2024 14:03:50.116 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+18-06-2024 14:03:50.116 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+18-06-2024 14:03:50.116 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+18-06-2024 14:04:49.680 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter i and password and then click login button"}
+18-06-2024 14:04:49.681 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter i and password and then click login button"  parameterizedStepValue:"Enter i and password and then click login button"}}
+18-06-2024 14:04:49.837 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter  and password and then click login button"}
+18-06-2024 14:04:49.847 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter  and password and then click login button"  parameterizedStepValue:"Enter  and password and then click login button"}}
+18-06-2024 14:04:50.356 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"\" and password and then click login button"}
+18-06-2024 14:04:50.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and password and then click login button"  parameterizedStepValue:"Enter <> and password and then click login button"  parameters:""}}
+18-06-2024 14:04:50.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<\" and password and then click login button"}
+18-06-2024 14:04:50.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and password and then click login button"  parameterizedStepValue:"Enter <<> and password and then click login button"  parameters:"<"}}
+18-06-2024 14:04:51.450 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<>\" and password and then click login button"}
+18-06-2024 14:04:51.454 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and password and then click login button"  parameterizedStepValue:"Enter <<>> and password and then click login button"  parameters:"<>"}}
+18-06-2024 14:04:53.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<>\" and  and then click login button"}
+18-06-2024 14:04:53.836 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and  and then click login button"  parameterizedStepValue:"Enter <<>> and  and then click login button"  parameters:"<>"}}
+18-06-2024 14:04:54.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<>\" and \"\" and then click login button"}
+18-06-2024 14:04:54.618 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<>> and <> and then click login button"  parameters:"<>"  parameters:""}}
+18-06-2024 14:04:55.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<>\" and \"<\" and then click login button"}
+18-06-2024 14:04:55.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<>> and <<> and then click login button"  parameters:"<>"  parameters:"<"}}
+18-06-2024 14:04:55.771 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<>\" and \"<>\" and then click login button"}
+18-06-2024 14:04:55.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<>> and <<>> and then click login button"  parameters:"<>"  parameters:"<>"}}
+18-06-2024 14:04:59.587 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<k>\" and \"<>\" and then click login button"}
+18-06-2024 14:04:59.587 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<k>> and <<>> and then click login button"  parameters:"<k>"  parameters:"<>"}}
+18-06-2024 14:04:59.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<ka>\" and \"<>\" and then click login button"}
+18-06-2024 14:04:59.611 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<ka>> and <<>> and then click login button"  parameters:"<ka>"  parameters:"<>"}}
+18-06-2024 14:04:59.775 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaa>\" and \"<>\" and then click login button"}
+18-06-2024 14:04:59.790 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaa>> and <<>> and then click login button"  parameters:"<kaa>"  parameters:"<>"}}
+18-06-2024 14:05:00.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaan>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:00.280 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaan>> and <<>> and then click login button"  parameters:"<kaan>"  parameters:"<>"}}
+18-06-2024 14:05:00.448 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaann>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:00.455 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaann>> and <<>> and then click login button"  parameters:"<kaann>"  parameters:"<>"}}
+18-06-2024 14:05:00.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaannc>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:00.923 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaannc>> and <<>> and then click login button"  parameters:"<kaannc>"  parameters:"<>"}}
+18-06-2024 14:05:00.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaannci>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:00.985 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaannci>> and <<>> and then click login button"  parameters:"<kaannci>"  parameters:"<>"}}
+18-06-2024 14:05:01.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncin>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:01.256 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncin>> and <<>> and then click login button"  parameters:"<kaanncin>"  parameters:"<>"}}
+18-06-2024 14:05:01.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncina>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:01.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncina>> and <<>> and then click login button"  parameters:"<kaanncina>"  parameters:"<>"}}
+18-06-2024 14:05:01.465 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<>\" and then click login button"}
+18-06-2024 14:05:01.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<>"}}
+18-06-2024 14:05:03.716 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<L>\" and then click login button"}
+18-06-2024 14:05:03.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<L>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<L>"}}
+18-06-2024 14:05:03.919 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lc>\" and then click login button"}
+18-06-2024 14:05:03.921 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lc>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lc>"}}
+18-06-2024 14:05:04.107 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lch>\" and then click login button"}
+18-06-2024 14:05:04.117 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lch>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lch>"}}
+18-06-2024 14:05:04.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchk>\" and then click login button"}
+18-06-2024 14:05:04.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchk>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchk>"}}
+18-06-2024 14:05:04.748 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkd>\" and then click login button"}
+18-06-2024 14:05:04.748 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkd>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkd>"}}
+18-06-2024 14:05:04.952 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr>\" and then click login button"}
+18-06-2024 14:05:04.961 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr>"}}
+18-06-2024 14:05:07.696 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2>\" and then click login button"}
+18-06-2024 14:05:07.699 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2>"}}
+18-06-2024 14:05:07.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr20>\" and then click login button"}
+18-06-2024 14:05:07.855 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr20>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr20>"}}
+18-06-2024 14:05:08.025 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr201>\" and then click login button"}
+18-06-2024 14:05:08.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr201>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr201>"}}
+18-06-2024 14:05:08.135 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2016>\" and then click login button"}
+18-06-2024 14:05:08.147 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2016>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2016>"}}
+18-06-2024 14:05:08.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2016+>\" and then click login button"}
+18-06-2024 14:05:08.327 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2016+>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2016+>"}}
+18-06-2024 14:05:08.467 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2016++>\" and then click login button"}
+18-06-2024 14:05:08.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2016++>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2016++>"}}
+18-06-2024 14:05:09.138 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2016++_>\" and then click login button"}
+18-06-2024 14:05:09.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2016++_>> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2016++_>"}}
+18-06-2024 14:05:10.843 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and <Lchkdr2016++_>>"}
+18-06-2024 14:05:10.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {}>"  parameterizedStepValue:"Enter <<kaanncinar>> and <Lchkdr2016++_>>"  parameters:"<kaanncinar>"  parameters:"Lchkdr2016++_"}}
+18-06-2024 14:06:00.219 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \\\"([^\\\"]*)\\\" and password and then click login button"}
+18-06-2024 14:06:00.230 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter \\\"([^\\\"]*)\\\" and password and then click login button"  parameterizedStepValue:"Enter \\\"([^\\\"]*)\\\" and password and then click login button"}}
+18-06-2024 14:06:02.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \\\"([^\\\"]*)\" and password and then click login button"}
+18-06-2024 14:06:02.569 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:02.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \\\"([^\\\"]*)\" and password and then click login button"}
+18-06-2024 14:06:02.958 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:03.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \\\"([^\\\"]*)\" and password and then click login button"}
+18-06-2024 14:06:03.034 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:03.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \\\"([^\\\"]*)\" and password and then click login button"}
+18-06-2024 14:06:03.034 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:03.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \\\"([^\\\"]*)\" and password and then click login button"}
+18-06-2024 14:06:03.050 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:06.028 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\\\"]*)\" and password and then click login button"}
+18-06-2024 14:06:06.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and password and then click login button"  parameterizedStepValue:"Enter <([^\"]*)> and password and then click login button"  parameters:"([^\"]*)"}}
+18-06-2024 14:06:07.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:07.761 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:07.794 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:07.797 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:07.797 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:07.798 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:07.798 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:07.808 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:13.679 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:13.686 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:13.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:13.727 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:13.728 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:13.729 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:13.742 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:13.745 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:15.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:15.799 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:15.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:15.801 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:15.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:15.811 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:16.667 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:16.678 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:16.714 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:16.714 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:16.727 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:16.728 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:16.792 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and password and then click login button"}
+18-06-2024 14:06:16.792 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:23.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\\\"]*)\\\" and then click login button"}
+18-06-2024 14:06:23.466 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:23.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\\\"]*)\\\" and then click login button"}
+18-06-2024 14:06:23.543 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:23.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\\\"]*)\\\" and then click login button"}
+18-06-2024 14:06:23.543 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:23.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\\\"]*)\\\" and then click login button"}
+18-06-2024 14:06:23.555 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:25.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\\\"]*)\" and then click login button"}
+18-06-2024 14:06:25.257 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {}]*){} and then click login button"  parameterizedStepValue:"Enter <([^>]*)< and \"([^\"]*)> and then click login button"  parameters:"([^"  parameters:" and \"([^\"]*)"}}
+18-06-2024 14:06:27.086 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:27.086 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:27.414 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:27.428 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:27.477 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:27.487 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:27.487 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:27.488 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:27.493 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \\\"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:27.497 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:06:28.841 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"([^\"]*)\" and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:28.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {}]*){}([^{} and then click login button"  parameterizedStepValue:"Enter <([^>]*)< and >([^<]*)> and then click login button"  parameters:"([^"  parameters:" and "  parameters:"]*)"}}
+18-06-2024 14:06:52.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"^:Enter \"([^\"]*)\" and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:52.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"^:Enter {}]*){}([^{} and then click login button"  parameterizedStepValue:"^:Enter <([^>]*)< and >([^<]*)> and then click login button"  parameters:"([^"  parameters:" and "  parameters:"]*)"}}
+18-06-2024 14:06:53.098 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"^: Enter \"([^\"]*)\" and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:06:53.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"^: Enter {}]*){}([^{} and then click login button"  parameterizedStepValue:"^: Enter <([^>]*)< and >([^<]*)> and then click login button"  parameters:"([^"  parameters:" and "  parameters:"]*)"}}
+18-06-2024 14:08:27.295 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2016++_\" and then click login button"}
+18-06-2024 14:08:27.300 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2016++_> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2016++_"}}
+18-06-2024 14:08:27.405 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"<Lchkdr2016++\" and then click login button"}
+18-06-2024 14:08:27.408 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <<Lchkdr2016++> and then click login button"  parameters:"<kaanncinar>"  parameters:"<Lchkdr2016++"}}
+18-06-2024 14:08:29.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar>\" and \"Lchkdr2016++\" and then click login button"}
+18-06-2024 14:08:29.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar>> and <Lchkdr2016++> and then click login button"  parameters:"<kaanncinar>"  parameters:"Lchkdr2016++"}}
+18-06-2024 14:08:31.827 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"<kaanncinar\" and \"Lchkdr2016++\" and then click login button"}
+18-06-2024 14:08:31.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <<kaanncinar> and <Lchkdr2016++> and then click login button"  parameters:"<kaanncinar"  parameters:"Lchkdr2016++"}}
+18-06-2024 14:08:32.893 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinar\" and \"Lchkdr2016++\" and then click login button"}
+18-06-2024 14:08:32.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinar> and <Lchkdr2016++> and then click login button"  parameters:"kaanncinar"  parameters:"Lchkdr2016++"}}
+18-06-2024 14:08:39.838 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter "}
+18-06-2024 14:08:39.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter"  parameterizedStepValue:"Enter"}}
+18-06-2024 14:08:42.286 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter < and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:42.293 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+18-06-2024 14:08:42.349 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter < and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:42.353 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+18-06-2024 14:08:42.353 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter < and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:42.353 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+18-06-2024 14:08:42.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter < and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:42.363 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+18-06-2024 14:08:42.881 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:42.887 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.209 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.221 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.257 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.268 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.268 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.269 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.272 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.282 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.855 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.914 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.920 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.920 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.921 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:43.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and \"([^\"]*)\" and then click login button"}
+18-06-2024 14:08:43.931 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"String not terminated"}
+18-06-2024 14:08:48.107 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and  and then click login button"}
+18-06-2024 14:08:48.112 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and  and then click login button"  parameterizedStepValue:"Enter <id> and  and then click login button"  parameters:"id"}}
+18-06-2024 14:08:48.451 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and < and then click login button"}
+18-06-2024 14:08:48.457 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+18-06-2024 14:08:48.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and <> and then click login button"}
+18-06-2024 14:08:48.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <id> and <> and then click login button"  parameters:"id"  parameters:""}}
+18-06-2024 14:08:51.471 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and <password> and then click login button"}
+18-06-2024 14:08:51.471 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <id> and <password> and then click login button"  parameters:"id"  parameters:"password"}}
+18-06-2024 14:09:20.643 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate  profile whether is correct or not"}
+18-06-2024 14:09:20.644 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate  profile whether is correct or not"  parameterizedStepValue:"Validate  profile whether is correct or not"}}
+18-06-2024 14:09:20.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"\" profile whether is correct or not"}
+18-06-2024 14:09:20.804 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <> profile whether is correct or not"  parameters:""}}
+18-06-2024 14:09:21.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"k\" profile whether is correct or not"}
+18-06-2024 14:09:21.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <k> profile whether is correct or not"  parameters:"k"}}
+18-06-2024 14:09:21.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"ka\" profile whether is correct or not"}
+18-06-2024 14:09:21.623 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <ka> profile whether is correct or not"  parameters:"ka"}}
+18-06-2024 14:09:21.770 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"kaa\" profile whether is correct or not"}
+18-06-2024 14:09:21.784 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <kaa> profile whether is correct or not"  parameters:"kaa"}}
+18-06-2024 14:09:21.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"kaan\" profile whether is correct or not"}
+18-06-2024 14:09:21.899 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <kaan> profile whether is correct or not"  parameters:"kaan"}}
+18-06-2024 14:09:22.381 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"kaanncinar\" profile whether is correct or not"}
+18-06-2024 14:09:22.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <kaanncinar> profile whether is correct or not"  parameters:"kaanncinar"}}
+18-06-2024 14:09:28.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate > profile whether is correct or not"}
+18-06-2024 14:09:28.862 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate > profile whether is correct or not"  parameterizedStepValue:"Validate > profile whether is correct or not"}}
+18-06-2024 14:09:29.800 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate < profile whether is correct or not"}
+18-06-2024 14:09:29.805 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:4  error:{error:"Dynamic parameter not terminated"}
+18-06-2024 14:09:30.409 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <> profile whether is correct or not"}
+18-06-2024 14:09:30.418 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <> profile whether is correct or not"  parameters:""}}
+18-06-2024 14:09:31.913 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <profile> profile whether is correct or not"}
+18-06-2024 14:09:31.923 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <profile> profile whether is correct or not"  parameters:"profile"}}
+18-06-2024 14:09:32.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <profilename> profile whether is correct or not"}
+18-06-2024 14:09:32.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <profilename> profile whether is correct or not"  parameters:"profilename"}}
+18-06-2024 14:09:39.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <name> profile whether is correct or not"}
+18-06-2024 14:09:39.669 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <name> profile whether is correct or not"  parameters:"name"}}
+18-06-2024 14:12:35.330 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinar\" and \"Lchkdr2016++_\" and then click login button"}
+18-06-2024 14:12:35.333 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinar> and <Lchkdr2016++_> and then click login button"  parameters:"kaanncinar"  parameters:"Lchkdr2016++_"}}
+18-06-2024 14:18:11.618 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinarr\" and \"Lchkdr2016++_\" and then click login button"}
+18-06-2024 14:18:11.624 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinarr> and <Lchkdr2016++_> and then click login button"  parameters:"kaanncinarr"  parameters:"Lchkdr2016++_"}}
+18-06-2024 14:18:15.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"kaanncinarr\" profile whether is correct or not"}
+18-06-2024 14:18:15.451 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <kaanncinarr> profile whether is correct or not"  parameters:"kaanncinarr"}}
+18-06-2024 14:25:33.411 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinarr\" and \"Lchkdr2016++\" and then click login button"}
+18-06-2024 14:25:33.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinarr> and <Lchkdr2016++> and then click login button"  parameters:"kaanncinarr"  parameters:"Lchkdr2016++"}}
+18-06-2024 14:25:36.786 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinarr\" and \"Lchkdr2016+\" and then click login button"}
+18-06-2024 14:25:36.798 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinarr> and <Lchkdr2016+> and then click login button"  parameters:"kaanncinarr"  parameters:"Lchkdr2016+"}}
+18-06-2024 14:25:37.146 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinarr\" and \"Lchkdr2016\" and then click login button"}
+18-06-2024 14:25:37.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinarr> and <Lchkdr2016> and then click login button"  parameters:"kaanncinarr"  parameters:"Lchkdr2016"}}
+18-06-2024 15:23:48.655 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-06-2024 15:23:48.655 [Gauge] [INFO] Initializing specs cache with 0 specs
+18-06-2024 15:23:48.655 [Gauge] [INFO] Initializing steps cache with 0 steps
+18-06-2024 15:23:48.655 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60101
+18-06-2024 15:23:48.656 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+18-06-2024 15:23:48.656 [Gauge] [DEBUG] Found 0 files
+18-06-2024 15:24:00.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+18-06-2024 15:24:00.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+18-06-2024 15:24:00.896 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+18-06-2024 15:24:00.901 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+18-06-2024 15:24:00.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and <password> and then click login button"}
+18-06-2024 15:24:00.988 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <id> and <password> and then click login button"  parameters:"id"  parameters:"password"}}
+18-06-2024 15:24:01.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+18-06-2024 15:24:01.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+18-06-2024 15:24:01.053 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <name> profile whether is correct or not"}
+18-06-2024 15:24:01.066 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <name> profile whether is correct or not"  parameters:"name"}}
+18-06-2024 15:24:01.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+18-06-2024 15:24:01.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+18-06-2024 15:24:01.163 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+18-06-2024 15:24:01.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+18-06-2024 15:24:01.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+18-06-2024 15:24:01.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+18-06-2024 15:24:01.288 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"kaanncinarr\" and \"Lchkdr2016\" and then click login button"}
+18-06-2024 15:24:01.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <kaanncinarr> and <Lchkdr2016> and then click login button"  parameters:"kaanncinarr"  parameters:"Lchkdr2016"}}
+18-06-2024 15:24:01.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"kaanncinarr\" profile whether is correct or not"}
+18-06-2024 15:24:01.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <kaanncinarr> profile whether is correct or not"  parameters:"kaanncinarr"}}
+18-06-2024 15:42:09.681 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"\" and \"Lchkdr2016\" and then click login button"}
+18-06-2024 15:42:09.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <> and <Lchkdr2016> and then click login button"  parameters:""  parameters:"Lchkdr2016"}}
+18-06-2024 15:42:10.947 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"\" and \"\" and then click login button"}
+18-06-2024 15:42:10.949 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <> and <> and then click login button"  parameters:""  parameters:""}}
+18-06-2024 15:42:12.373 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"\" profile whether is correct or not"}
+18-06-2024 15:42:12.375 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <> profile whether is correct or not"  parameters:""}}
+18-06-2024 16:59:51.388 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-06-2024 16:59:51.390 [Gauge] [INFO] Initializing specs cache with 0 specs
+18-06-2024 16:59:51.390 [Gauge] [INFO] Initializing steps cache with 0 steps
+18-06-2024 16:59:51.390 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64962
+18-06-2024 16:59:51.391 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+18-06-2024 16:59:51.392 [Gauge] [DEBUG] Found 0 files
+18-06-2024 16:59:52.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"\" profile whether is correct or not"}
+18-06-2024 16:59:52.411 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <> profile whether is correct or not"  parameters:""}}
+18-06-2024 17:00:09.995 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+18-06-2024 17:00:09.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+18-06-2024 17:00:10.905 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+18-06-2024 17:00:10.905 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+18-06-2024 17:00:10.911 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and <password> and then click login button"}
+18-06-2024 17:00:10.911 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <id> and <password> and then click login button"  parameters:"id"  parameters:"password"}}
+18-06-2024 17:00:10.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+18-06-2024 17:00:10.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+18-06-2024 17:00:10.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <name> profile whether is correct or not"}
+18-06-2024 17:00:10.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <name> profile whether is correct or not"  parameters:"name"}}
+18-06-2024 17:00:10.983 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"\" and \"\" and then click login button"}
+18-06-2024 17:00:10.983 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <> and <> and then click login button"  parameters:""  parameters:""}}
+18-06-2024 17:00:10.999 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+18-06-2024 17:00:11.002 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+18-06-2024 17:00:11.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+18-06-2024 17:00:11.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+18-06-2024 17:00:11.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+18-06-2024 17:00:11.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
+18-06-2024 20:29:31.557 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-06-2024 20:29:31.557 [Gauge] [INFO] Initializing specs cache with 0 specs
+18-06-2024 20:29:31.557 [Gauge] [INFO] Initializing steps cache with 0 steps
+18-06-2024 20:29:31.557 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51330
+18-06-2024 20:29:31.557 [Gauge] [DEBUG] Watching directory: C:\Users\kaan-\IdeaProjects\Instagram\specs
+18-06-2024 20:29:31.564 [Gauge] [DEBUG] Found 0 files
+18-06-2024 20:29:36.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate \"\" profile whether is correct or not"}
+18-06-2024 20:29:36.919 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <> profile whether is correct or not"  parameters:""}}
+18-06-2024 20:29:53.491 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by chrome explorer"}
+18-06-2024 20:29:53.491 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by chrome explorer"  parameterizedStepValue:"Go to instagram website using by chrome explorer"}}
+18-06-2024 20:29:53.695 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to instagram website using by edge explorer"}
+18-06-2024 20:29:53.708 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to instagram website using by edge explorer"  parameterizedStepValue:"Go to instagram website using by edge explorer"}}
+18-06-2024 20:29:53.709 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter <id> and <password> and then click login button"}
+18-06-2024 20:29:53.709 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <id> and <password> and then click login button"  parameters:"id"  parameters:"password"}}
+18-06-2024 20:29:53.710 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click profile button navigate bar from left side of the screen"}
+18-06-2024 20:29:53.710 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click profile button navigate bar from left side of the screen"  parameterizedStepValue:"Click profile button navigate bar from left side of the screen"}}
+18-06-2024 20:29:53.711 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Validate <name> profile whether is correct or not"}
+18-06-2024 20:29:53.711 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Validate {} profile whether is correct or not"  parameterizedStepValue:"Validate <name> profile whether is correct or not"  parameters:"name"}}
+18-06-2024 20:29:53.712 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter \"\" and \"\" and then click login button"}
+18-06-2024 20:29:53.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter {} and {} and then click login button"  parameterizedStepValue:"Enter <> and <> and then click login button"  parameters:""  parameters:""}}
+18-06-2024 20:29:53.715 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followers and take them into list then close pop up"}
+18-06-2024 20:29:53.725 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followers and take them into list then close pop up"  parameterizedStepValue:"Open your followers and take them into list then close pop up"}}
+18-06-2024 20:29:53.726 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open your followings and take them into list then close pop up"}
+18-06-2024 20:29:53.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open your followings and take them into list then close pop up"  parameterizedStepValue:"Open your followings and take them into list then close pop up"}}
+18-06-2024 20:29:53.730 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Compare them and then extract difference between"}
+18-06-2024 20:29:53.734 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Compare them and then extract difference between"  parameterizedStepValue:"Compare them and then extract difference between"}}
