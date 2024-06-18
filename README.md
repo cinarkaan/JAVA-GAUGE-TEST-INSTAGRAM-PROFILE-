@@ -1,4 +1,4 @@
-<h1>Scenario Brief</h1>
+<h1>Scenario Step</h1>
 
 
 <ol>
