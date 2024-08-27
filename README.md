@@ -11,5 +11,3 @@
 </ol>
 
 <p>You can examine the report of this case in the html-report folder</p>
-
-<a href="Gauge_Test_Results.pdf" class="image fit"><img src="" alt=""></a>
