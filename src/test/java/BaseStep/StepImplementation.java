@@ -4,11 +4,8 @@ import com.instagram.base.BasePage;
 import com.instagram.pages.MainPage;
 import com.instagram.pages.ProfilePage;
 import com.thoughtworks.gauge.Gauge;
-import com.thoughtworks.gauge.GaugeRuntime;
 import com.thoughtworks.gauge.Step;
 import org.testng.Assert;
-
-import javax.management.monitor.GaugeMonitor;
 
 public class StepImplementation {
 
@@ -61,8 +58,8 @@ public class StepImplementation {
         Thread.sleep(3000);
         profilePage.openFollowers();
         Thread.sleep(3000);
+        profilePage.scrollPage();
         profilePage.readFollowers();
-        //profilePage.scrollPage();
         profilePage.closePopUp();
         Gauge.captureScreenshot();
     }
@@ -72,17 +69,16 @@ public class StepImplementation {
         Thread.sleep(3000);
         profilePage.openFollowings();
         Thread.sleep(3000);
+        profilePage.scrollPage();
         profilePage.readFollowings();
-        //profilePage.scrollPage();
         profilePage.closePopUp();
         Gauge.captureScreenshot();
     }
 
     @Step("Compare them and then extract difference between")
     public void compare () {
-        profilePage.UnFollowers();
 
-        profilePage.UnFollowings();
+        profilePage.resultSet();
 
         Gauge.captureScreenshot();
     }

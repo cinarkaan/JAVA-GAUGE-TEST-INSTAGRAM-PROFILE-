@@ -35,7 +35,7 @@ public class BasePage {
     }
 
     public void setUpChrome () {
-        WebDriverManager.chromedriver().browserVersion("126.0.6478.62 ").setup();
+        WebDriverManager.chromedriver().browserVersion("127.0.6533.120 ").setup();
         ChromeOptions options = new ChromeOptions();
         this.driver = new ChromeDriver(options);
         this.driver.manage().timeouts().implicitlyWait(15,TimeUnit.SECONDS);
