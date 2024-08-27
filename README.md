@@ -12,12 +12,12 @@
 
 <p>You can examine the report of this case in the html-report folder</p>
 
-<img src="1.png" width="300" />
+<img src="1.png" width="400" />
 
-<img src="2.png" width="300" />
+<img src="2.png" width="400" />
 
-<img src="3.png" width="300" />
+<img src="3.png" width="400" />
 
-<img src="4.png" width="300" />
+<img src="4.png" width="400" />
 
-<img src="5.png" width="300" />
+<img src="5.png" width="400" />
