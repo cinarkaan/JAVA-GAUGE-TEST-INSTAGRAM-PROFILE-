@@ -12,6 +12,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class ProfilePage extends BasePage {
 
@@ -24,7 +25,7 @@ public class ProfilePage extends BasePage {
     @FindBy(how = How.XPATH, using = "//*[local-name()='svg' and @class='x1lliihq x1n2onr6 x5n08af']")
     private WebElement _closePopUp;
 
-    @FindBy(how = How.CSS, using = "body > div.x5ec8gl.x1jd1wzk.xntebi5.xahrfoy.x1n2onr6.xzkaem6 > div:nth-child(2) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div.x7r02ix.xf1ldfh.x131esax.xdajt7p.xxfnqb6.xb88tzc.xw2csxc.x1odjw0f.x5fp0pe > div > div > div.xyi19xy.x1ccrb07.xtf3nb5.x1pc53ja.x1lliihq.x1iyjqo2.xs83m0k.xz65tgg.x1rife3k.x1n2onr6")
+    @FindBy(how = How.CSS, using = "body > div.x17hbii1.x1kd72b6.x13ywhbb.xahrfoy.x1n2onr6.xzkaem6 > div:nth-child(2) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div.x7r02ix.xf1ldfh.x131esax.xdajt7p.xxfnqb6.xb88tzc.xw2csxc.x1odjw0f.x5fp0pe > div > div > div.xyi19xy.x1ccrb07.xtf3nb5.x1pc53ja.x1lliihq.x1iyjqo2.xs83m0k.xz65tgg.x1rife3k.x1n2onr6")
     private WebElement _slider;
 
 
@@ -76,13 +77,11 @@ public class ProfilePage extends BasePage {
     }
 
     public void resultSet () {
-        //List<String> diff1 = new ArrayList<>(_Followers_);
-        //diff1.removeAll(_Followings_);
-        List<String> diff2 = new ArrayList<>(_Followings_);
-        diff2.removeAll(_Followers_);
-        //System.out.println(diff1.size());
-        System.out.println(diff2.size());
-        //diff1.forEach(i -> System.out.println(i));
-        diff2.forEach(i -> System.out.println(i));
+        System.out.println(_Followers_.size());
+        System.out.println(_Followings_.size());
+
+        List<String> diff = _Followings_.stream().filter(e -> !_Followers_.contains(e)).distinct().collect(Collectors.toList());
+        System.out.println(diff.size());
+        diff.forEach(i -> System.out.println(i));
     }
 }
