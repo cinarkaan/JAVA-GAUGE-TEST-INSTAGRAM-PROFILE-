@@ -10,6 +10,8 @@
   <li>*Compare them and then extract difference between</li>
 </ol>
 
+<p>Those who don't follow you will be found out by automation... </p>
+
 <p>You can examine the report of this case in the html-report folder</p>
 
 <img src="1.png" width="400" />
@@ -21,3 +23,4 @@
 <img src="4.png" width="400" />
 
 <img src="5.png" width="400" />
+
